@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestClass.TestPriority">
+        <methods>
+          <include name="clickRegisterLink"/>
+          <include name="launchURL"/>
+          <include name="fillRegistration"/>
+          <include name="selectPassengers"/>
+          <include name="selectTripType"/>
+          <include name="enterSignOnDetails"/>
+          <include name="clickSignOnLink"/>
+          <include name="selectFromMonth"/>
+          <include name="selectServiceClass"/>
+        </methods>
+      </class> <!-- TestClass.TestPriority -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18311" started-at="2017-04-09T04:31:18Z" finished-at="2017-04-09T04:31:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18311" started-at="2017-04-09T04:31:18Z" finished-at="2017-04-09T04:31:36Z">
+      <class name="TestClass.TestPriority">
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="launchURL" is-config="true" duration-ms="8966" started-at="2017-04-08T21:31:18Z" finished-at="2017-04-08T21:31:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="clickRegisterLink()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="clickRegisterLink" duration-ms="1017" started-at="2017-04-08T21:31:27Z" finished-at="2017-04-08T21:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRegisterLink -->
+        <test-method status="PASS" signature="fillRegistration()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="fillRegistration" duration-ms="3141" started-at="2017-04-08T21:31:28Z" finished-at="2017-04-08T21:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillRegistration -->
+        <test-method status="PASS" signature="clickSignOnLink()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="clickSignOnLink" duration-ms="1188" started-at="2017-04-08T21:31:31Z" finished-at="2017-04-08T21:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignOnLink -->
+        <test-method status="PASS" signature="enterSignOnDetails()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="enterSignOnDetails" duration-ms="2326" started-at="2017-04-08T21:31:32Z" finished-at="2017-04-08T21:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSignOnDetails -->
+        <test-method status="PASS" signature="selectTripType()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="selectTripType" duration-ms="503" started-at="2017-04-08T21:31:35Z" finished-at="2017-04-08T21:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTripType -->
+        <test-method status="PASS" signature="selectPassengers()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="selectPassengers" duration-ms="439" started-at="2017-04-08T21:31:35Z" finished-at="2017-04-08T21:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPassengers -->
+        <test-method status="PASS" signature="selectServiceClass()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="selectServiceClass" duration-ms="306" started-at="2017-04-08T21:31:36Z" finished-at="2017-04-08T21:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectServiceClass -->
+        <test-method status="PASS" signature="selectFromMonth()[pri:0, instance:TestClass.TestPriority@36d4b5c]" name="selectFromMonth" duration-ms="331" started-at="2017-04-08T21:31:36Z" finished-at="2017-04-08T21:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFromMonth -->
+      </class> <!-- TestClass.TestPriority -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
